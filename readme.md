@@ -4,7 +4,7 @@ This is a fast ping bot made by iPig
 1.Open cmd/terminal and enter `pip install -r requirements.txt`  
 2.Open the main.py file with any text editor  
 3.Replace the token and pingroleid  
-4.Run it 
+4.Run main.py
 ### Commands
 !delall - Delete all channels  
 !cch <amount> - Create channels that starts with Ping  
